@@ -1,9 +1,5 @@
 # Itay
-Include a README file in your repository. This should provide:
-- Installation and run instructions.
-- A clear explanation of your work and approach, please specify OS you used to
-complete the task
-• Attach your CV and, optionally, a cover letter explaining why you’d like to join the team
+I used Windows 10* 64-bit os.
 Work Explanation:
 I draw the cones as dots on a XY Graph
 I draw a line in the center between every left and right cone
