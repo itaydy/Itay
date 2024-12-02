@@ -1,6 +1,8 @@
 # Itay
 I used Windows 10* 64-bit os.
+
 Work Explanation:
+
 * I draw the cones as dots on a XY Graph
 * I draw a line in the center between every left and right cone
 * The line is the car path.
